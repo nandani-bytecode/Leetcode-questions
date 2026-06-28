@@ -74,4 +74,9 @@
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0069-sqrtx) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
