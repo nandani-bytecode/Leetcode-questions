@@ -15,6 +15,7 @@
 | [0088-merge-sorted-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0162-find-peak-element) |
 | [0303-range-sum-query-immutable](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0303-range-sum-query-immutable) |
 | [0724-find-pivot-index](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0724-find-pivot-index) |
 | [0912-sort-an-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0912-sort-an-array) |
@@ -83,6 +84,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0162-find-peak-element) |
 ## Math
 |  |
 | ------- |
