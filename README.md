@@ -47,6 +47,7 @@
 | [0014-longest-common-prefix](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 ## Trie
 |  |
@@ -124,4 +125,12 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
+## Stack
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0394-decode-string) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
