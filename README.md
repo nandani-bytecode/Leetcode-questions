@@ -28,6 +28,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 ## Prefix Sum
@@ -44,6 +45,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 ## Trie
