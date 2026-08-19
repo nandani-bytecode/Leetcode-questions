@@ -50,6 +50,7 @@
 | [0205-isomorphic-strings](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0394-decode-string](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0394-decode-string) |
+| [0412-fizz-buzz](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 ## Trie
 |  |
@@ -118,6 +119,7 @@
 | [0007-reverse-integer](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0412-fizz-buzz) |
 ## Matrix
 |  |
 | ------- |
@@ -142,4 +144,8 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
