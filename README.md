@@ -115,6 +115,7 @@
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0007-reverse-integer) |
 | [0069-sqrtx](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0069-sqrtx) |
 ## Matrix
 |  |
