@@ -24,6 +24,7 @@
 | [0912-sort-an-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0912-sort-an-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1480-running-sum-of-1d-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1552-magnetic-force-between-two-balls) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@
 | [0410-split-array-largest-sum](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0724-find-pivot-index](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
+| [1480-running-sum-of-1d-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1480-running-sum-of-1d-array) |
 ## Design
 |  |
 | ------- |
