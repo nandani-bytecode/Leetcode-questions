@@ -10,8 +10,20 @@
  */
 class Solution {
 public:
+     
+     ListNode *Reverese(ListNode *curr,ListNode *prev){
+        if(curr==NULL){
+            return prev;
+        }
+        ListNode *fut = curr->next;
+        curr->next = prev;
+        return Reverese(fut,curr);
+     }
+
+    
     ListNode* reverseList(ListNode* head) {
         
+        //method 1, just changing the values not addresses
         // vector<int> ans;
         // ListNode *temp = head;
 
@@ -32,17 +44,22 @@ public:
         // return head;
 
 
-          
-        ListNode *curr = head,*prev = NULL,*fut = NULL;
+        //method 2, reversing whole linked list along with address
+        // ListNode *curr = head,*prev = NULL,*fut = NULL;
 
-        while(curr){
-            fut = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = fut;
-        }
+        // while(curr){
+        //     fut = curr->next;
+        //     curr->next = prev;
+        //     prev = curr;
+        //     curr = fut;
+        // }
 
-        head = prev;
-        return head;
+        // head = prev;
+        // return head;
+
+
+        //method 3 ,method 2 with recursion
+
+        return Reverese(head,NULL);
     }
 };
