@@ -141,6 +141,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0394-decode-string) |
 ## Sliding Window
 |  |
@@ -150,4 +151,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0412-fizz-buzz) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
