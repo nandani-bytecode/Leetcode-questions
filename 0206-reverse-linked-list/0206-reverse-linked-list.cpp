@@ -12,16 +12,23 @@ class Solution {
 public:
     ListNode* reverseList(ListNode* head) {
         
-        ListNode *curr = head,*prev = NULL,*fut = NULL;
+        vector<int> ans;
+        ListNode *temp = head;
 
-        while(curr){
-            fut = curr->next;
-            curr->next = prev;
-            prev = curr;
-            curr = fut;
+        while(temp!=NULL){
+            ans.push_back(temp->val);
+            temp = temp->next;
         }
 
-        head = prev;
+        int i = ans.size()-1;
+        temp = head;
+
+        while(temp){
+            temp->val = ans[i];
+            i--;
+            temp = temp->next;
+        }
+
         return head;
     }
 };
