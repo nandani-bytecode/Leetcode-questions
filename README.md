@@ -61,6 +61,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0088-merge-sorted-array) |
@@ -155,6 +156,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0206-reverse-linked-list](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
