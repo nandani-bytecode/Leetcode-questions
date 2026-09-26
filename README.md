@@ -58,6 +58,7 @@
 | [0412-fizz-buzz](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1903-largest-odd-number-in-string](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
@@ -134,6 +135,7 @@
 | [0204-count-primes](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0509-fibonacci-number) |
+| [1903-largest-odd-number-in-string](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 ## Matrix
 |  |
 | ------- |
@@ -148,6 +150,7 @@
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1903-largest-odd-number-in-string](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
