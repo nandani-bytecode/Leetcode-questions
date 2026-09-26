@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0344-reverse-string) |
@@ -69,6 +70,7 @@
 | [0027-remove-element](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
