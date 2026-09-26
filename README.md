@@ -133,6 +133,7 @@
 | [0069-sqrtx](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0509-fibonacci-number) |
 ## Matrix
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
+| [0509-fibonacci-number](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -158,6 +160,7 @@
 | [0206-reverse-linked-list](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -198,4 +201,8 @@
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
