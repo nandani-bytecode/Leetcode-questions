@@ -27,6 +27,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1480-running-sum-of-1d-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1480-running-sum-of-1d-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1552-magnetic-force-between-two-balls) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
