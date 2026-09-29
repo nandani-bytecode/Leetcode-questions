@@ -1,6 +1,6 @@
 class Solution {
 public:
-    bool helper(vector<int>& nums, int i, int n, int& count) {
+    bool helper(vector<int>& nums, int i, int n, int count) {
         if (i == n) return count <= 1;
 
         
@@ -11,7 +11,7 @@ public:
     }
 
     bool check(vector<int>& nums) {
-        int count = 0;
-        return helper(nums, 0, nums.size(), count);
+        
+        return helper(nums, 0, nums.size(), 0);
     }
 };
