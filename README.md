@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0242-valid-anagram) |
@@ -155,6 +156,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -204,6 +206,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Memoization
 |  |
