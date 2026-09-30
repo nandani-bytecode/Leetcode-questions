@@ -34,3 +34,20 @@ public:
         return "";
     }
 };
+
+
+// class Solution {
+// public:
+//     string largestOddNumber(string num) {
+//         for(int i=num.size()-1 ;i>=0 ;i--){
+//             int s = stoi(num); // giving error because when num = 4206 , all even digits at the end we will get stoi(" ") which is not valid
+//             if(s%2 != 0){
+//                 return num;
+//             }
+//             else{
+//                 num = num.substr(0 , i);
+//             }
+//         }
+//         return num;
+//     }
+// };
