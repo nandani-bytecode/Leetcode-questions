@@ -26,7 +26,7 @@ public:
             char c1 = s[i];
             char c2 = t[i];
 
-            if(mappST.count(c1)){
+            if(mappST.count(c1)){// agr c1 already present h then mappST.count(c1) return true otherwise false
                 if(mappST[c1] != c2) return false;
             }
             else{
