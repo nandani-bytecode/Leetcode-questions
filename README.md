@@ -59,6 +59,7 @@
 | [0394-decode-string](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0394-decode-string) |
 | [0412-fizz-buzz](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
+| [0796-rotate-string](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1903-largest-odd-number-in-string](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
@@ -239,4 +240,8 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
