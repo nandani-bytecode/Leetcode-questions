@@ -19,6 +19,7 @@
 | [0162-find-peak-element](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
@@ -37,6 +38,7 @@
 | [0001-two-sum](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 ## Prefix Sum
 |  |
@@ -93,6 +95,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0912-sort-an-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1552-magnetic-force-between-two-balls) |
@@ -130,6 +133,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0875-koko-eating-bananas](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
@@ -143,6 +147,7 @@
 | [0069-sqrtx](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0204-count-primes) |
+| [0268-missing-number](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
@@ -256,4 +261,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0225-implement-stack-using-queues) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
