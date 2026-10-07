@@ -4,13 +4,13 @@ public:
         int i=0;
         
         while(i<=nums.size()){
-            int count =0;
+            bool flag = false;
             for(int j=0;j<nums.size();j++){
                 if(nums[j] == i){
-                   count++;
+                   flag = true;
                 }
             }
-             if(count == 0) break;
+             if(flag == false) break;
             i++;
         }
          return i;
