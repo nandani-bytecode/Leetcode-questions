@@ -19,6 +19,7 @@
 | [0162-find-peak-element](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0204-count-primes) |
+| [0283-move-zeroes](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0485-max-consecutive-ones) |
@@ -80,6 +81,7 @@
 | [0125-valid-palindrome](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0876-middle-of-the-linked-list) |
 ## Divide and Conquer
