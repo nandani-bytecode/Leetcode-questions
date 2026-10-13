@@ -19,6 +19,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0268-missing-number) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0001-two-sum) |
 | [0128-longest-consecutive-sequence](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
+| [0169-majority-element](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0268-missing-number) |
@@ -93,12 +95,14 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
@@ -125,6 +129,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0169-majority-element) |
 | [0451-sort-characters-by-frequency](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0451-sort-characters-by-frequency) |
 | [0912-sort-an-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0912-sort-an-array) |
 ## Binary Search
@@ -280,4 +285,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
