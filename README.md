@@ -12,6 +12,7 @@
 | [0027-remove-element](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0088-merge-sorted-array) |
@@ -166,6 +167,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
 ## Dynamic Programming
 |  |
@@ -203,6 +205,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0412-fizz-buzz) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Linked List
