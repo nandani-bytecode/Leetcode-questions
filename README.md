@@ -78,6 +78,7 @@
 | [0796-rotate-string](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0796-rotate-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
@@ -200,6 +201,7 @@
 | [0394-decode-string](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Recursion
 |  |
 | ------- |
@@ -251,6 +253,7 @@
 | [0020-valid-parentheses](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Memoization
 |  |
 | ------- |
