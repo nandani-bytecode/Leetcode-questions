@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0205-isomorphic-strings) |
@@ -66,6 +67,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0125-valid-palindrome) |
@@ -164,6 +166,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0204-count-primes) |
