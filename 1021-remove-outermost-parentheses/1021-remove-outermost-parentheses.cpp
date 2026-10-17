@@ -1,7 +1,6 @@
 class Solution {
 public:
     string removeOuterParentheses(string s) {
-        string result = "";
         string temp = "";
         int balance = 0;
         for(char c : s){
@@ -14,11 +13,8 @@ public:
                 if(balance > 0) temp += c;
                  
             }
-            if (balance == 0) {
-            result += temp;
-            temp = "";
-            }
+            
         }
-        return result;
+        return temp;
     }
 };
