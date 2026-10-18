@@ -70,6 +70,7 @@
 | [0013-roman-to-integer](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0242-valid-anagram) |
@@ -182,6 +183,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0119-pascals-triangle-ii) |
 | [0410-split-array-largest-sum](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
@@ -254,6 +256,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -327,4 +330,8 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0075-sort-colors) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
