@@ -275,6 +275,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
@@ -291,6 +292,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
@@ -300,6 +302,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 ## String Matching
 |  |
 | ------- |
@@ -340,4 +343,8 @@
 | [0022-generate-parentheses](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0022-generate-parentheses) |
 | [0078-subsets](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0090-subsets-ii) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
