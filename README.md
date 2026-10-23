@@ -279,6 +279,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -302,6 +303,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -317,6 +319,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 ## String Matching
 |  |
@@ -335,6 +338,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0701-insert-into-a-binary-search-tree) |
