@@ -33,6 +33,7 @@
 | [0303-range-sum-query-immutable](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0724-find-pivot-index) |
 | [0875-koko-eating-bananas](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0912-sort-an-array) |
@@ -160,6 +161,7 @@
 | [0162-find-peak-element](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0410-split-array-largest-sum) |
+| [0704-binary-search](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
