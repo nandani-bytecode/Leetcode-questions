@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-    int kthSmallest(TreeNode* root, int k) {
+    int kthSmallest(TreeNode* root, int k) {//used inorder traversal
         int count = 0;
         stack<TreeNode*> st;
         TreeNode* node = root;
@@ -22,7 +22,6 @@ public:
                 node = node->left;
             }
             else{
-                
                 node = st.top();
                 st.pop();
                 inorder.push_back(node->val);
