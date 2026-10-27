@@ -66,6 +66,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0303-range-sum-query-immutable) |
 ## String
 |  |
@@ -207,6 +208,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -334,6 +336,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0232-implement-queue-using-stacks) |
 ## Bit Manipulation
 |  |
 | ------- |
