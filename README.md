@@ -27,6 +27,7 @@
 | [0162-find-peak-element](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0283-move-zeroes) |
@@ -185,6 +186,7 @@
 | ------- |
 | [0054-spiral-matrix](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0200-number-of-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -296,6 +298,7 @@
 | [0101-symmetric-tree](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
@@ -327,6 +330,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0200-number-of-islands](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0547-number-of-provinces) |
@@ -357,6 +361,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0547-number-of-provinces) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
