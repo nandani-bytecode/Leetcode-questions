@@ -296,6 +296,7 @@
 | [0101-symmetric-tree](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0547-number-of-provinces) |
 ## Binary Tree
 |  |
 | ------- |
@@ -328,6 +329,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0547-number-of-provinces) |
 ## String Matching
 |  |
 | ------- |
@@ -355,6 +357,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0547-number-of-provinces) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -378,4 +381,8 @@
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0543-diameter-of-binary-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/nandani-bytecode/Leetcode-questions/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
